@@ -1,4 +1,3 @@
-package punkte_eleminieren;
 
 import java.io.File;
 import javax.swing.JOptionPane;
